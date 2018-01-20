@@ -27,7 +27,7 @@ SECRET_KEY = '_6b$6+s569(txootxitm_p)=-!g=+spvc)5=ls9f6ld2j!mva^'
 # DEBUG = True
 DEBUG = bool(os.environ.get('DJANGO_DEBUG', True))
 
-ALLOWED_HOSTS = ['127.0.0.1', 'nameless-hollows-83623.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'stormy-river-19205.herokuapp.com']
 
 SITE_ID = 1
 
